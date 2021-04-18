@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marimuthu-T
-- 👀 I’m interested in  full-stack deveolpment
+- 👀 I’m interested in back-end deveolpment
 - 🌱 I’m currently learning java
 - 📫 How to reach me marimuthu.t2018ece@sece.ac.in
 
